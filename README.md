@@ -5,7 +5,6 @@ A collection of Python exercises and challenges documenting my journey from Pyth
 ## Topics
 
 * [Operators](./Operators/README.md)
-* [Variables](./Variables/README.md)
 * [Conditions](./Conditions/README.md)
 * [Loops](./Loops/README.md)
 * [Functions](./Functions/README.md)
@@ -24,9 +23,6 @@ Python-Practice/
 |
 ├── Operators/
 |   └── README.md
-|
-├── Variables/
-│   └── README.md
 │
 ├── Conditions/
 │   └── README.md
