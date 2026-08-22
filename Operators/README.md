@@ -135,6 +135,45 @@ result = 10 + 5 * 2 > 15 and 20 % 3 == 2
 <br />
 
 
+### پروژه کوچک — ماشین حساب ساده
+
+در این پروژه یک ماشین حساب ساده می سازید.
+
+برنامه باید بتواند:
+
+    دو عدد از کاربر دریافت کند.
+    عملیات ریاضی انجام دهد.
+    نتیجه را نمایش دهد.
+
+هدف پروژه
+
+برنامه باید محاسبات زیر را انجام دهد:
+
+    جمع
+    تفریق
+    ضرب
+    تقسیم
+
+
+### پاسخ:
+
+```python
+
+number1 = float(input("please enter number 1:" ))
+number2 = float(input("please enter number 2:" ))
+print("Addition:", number1 + number2)
+print("Subtraction:" , number1 - number2)
+print("Multiplication:" , number1 * number2)
+print("Division:" , number1 / number2)
+
+
+```
+
+---
+
+<br />
+
+
 <!-- ```python
 
 
